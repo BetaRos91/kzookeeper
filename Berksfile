@@ -4,5 +4,5 @@ source 'https://supermarket.chef.io'
 
 metadata
  
-cookbook 'kagent', github: "giabbo79/kagent-chef", branch: "2.2"
-cookbook 'consul', github: "giabbo79/consul-chef", branch: "2.2"
+cookbook 'kagent', github: "BetaRos91/kagent-chef", branch: "2.2"
+cookbook 'consul', github: "BetaRos91/consul-chef", branch: "2.2"
